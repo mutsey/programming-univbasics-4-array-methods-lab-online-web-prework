@@ -9,7 +9,9 @@ end
 
 def using_sort(array)
 
-
+animals = ["cat", "dog", "bird"]
+animals.sort
+  => ["grumpy cat", "lil' bub", "maru"]
 end
 
 def using_reverse(array)
