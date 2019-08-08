@@ -16,10 +16,13 @@ end
 
 def using_reverse(array)
 
-
+animals = ["cat", "dog", "bird"]
+famous_wizards.reverse
+  => ["bird", "dog", "cat"]
 end
 
 def using_first(array)
+
 
 end
 
