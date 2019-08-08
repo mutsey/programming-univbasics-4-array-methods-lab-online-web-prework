@@ -23,7 +23,9 @@ end
 
 def using_first(array)
 
-
+animals = ["cat", "dog", "bird"]
+famous_cats.first
+  => "lil' bub"
 end
 
 def using_last(array)
