@@ -30,9 +30,12 @@ end
 
 def using_last(array)
 
-
+animals = ["cat", "dog", "bird"]
+famous_cats.last
+  => "bird"
 end
 
 def using_size(array)
+
 
 end
