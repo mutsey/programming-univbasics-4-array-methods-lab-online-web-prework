@@ -3,11 +3,12 @@ def using_include(array, element)
 animals = ["cat", "dog", "bird"]
 animals include?("horse")
   => false
-famous_cats.include?("cat")
+animals include?("cat")
   => true
 end
 
 def using_sort(array)
+
 
 end
 
