@@ -37,5 +37,7 @@ end
 
 def using_size(array)
 
-
+animals = ["cat", "dog", "bird"]
+animals.size
+  => 3
 end
