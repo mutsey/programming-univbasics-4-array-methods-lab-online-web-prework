@@ -24,11 +24,12 @@ end
 def using_first(array)
 
 animals = ["cat", "dog", "bird"]
-famous_cats.first
-  => "lil' bub"
+animals.first
+  => "cat"
 end
 
 def using_last(array)
+
 
 end
 
